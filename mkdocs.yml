@@ -1,0 +1,14 @@
+site_name: FLAKE Documentation
+site_description: Documentation of the QA/QC processes in Datalakes
+
+repo_url: https://github.com/EPFL-ENAC/limnc-flake-documentation
+
+theme: 
+  name: material
+
+plugins:
+  - search
+
+nav: 
+  - 'Home': index.md
+  - 'Roles': roles.md

@@ -1,0 +1,11 @@
+[project]
+name = "lmnc-flake-documentation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "lefthook>=1.12.2",
+    "mkdocs-material>=9.6.15",
+    "prettier>=0.0.7",
+]
