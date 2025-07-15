@@ -54,3 +54,6 @@ commitlint.config.js
 
 # CITATION files
 CITATION.cff
+
+# venv files
+.venv/
