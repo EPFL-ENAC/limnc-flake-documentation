@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Welcome to the FLAKE documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+FLAKE stands for **F**AIRifying **L**éXPLORE: enhancing open research data pipelines for **A**dvanced La**K**e Scienc**E**.
 
-## Commands
+The present website provides detailed information about the quality assurance and quality control (QA/QC) processes being added to [Datalakes](https://www.datalakes-eawag.ch/), including
 
-- `mkdocs new [dir-name]` - Create a new project.
-- `mkdocs serve` - Start the live-reloading docs server.
-- `mkdocs build` - Build the documentation site.
-- `mkdocs -h` - Print help message and exit.
+- an [overview][overview] of the QA/QC process
+- the [roles][roles] at play in the QA/QC process
+- the LéXPLORE [datasets][datasets] at the heart of the QA/QC effort
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+  [overview]: QC.md
+  [roles]: roles.md
+  [datasets]: datasets.md

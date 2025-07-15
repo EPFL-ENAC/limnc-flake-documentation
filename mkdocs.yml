@@ -6,9 +6,20 @@ repo_url: https://github.com/EPFL-ENAC/limnc-flake-documentation
 theme: 
   name: material
 
+markdown_extensions:
+  - tables
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
 plugins:
   - search
 
 nav: 
   - 'Home': index.md
   - 'Roles': roles.md
+  - 'Overview of QA/QC': QC.md
+  - 'Datasets': datasets.md
+  
