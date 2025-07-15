@@ -1,62 +1,84 @@
-# enac-it4r-repo
+# limnc-flake-documentation
 
-Template with licences / github templates and contributing processes
+Documentation for FLAKE
 
-## For New Repositories
 
-If you're setting up a new repository based on this template:
+## Contributors
 
-1. **First-time setup:**
+- EPFL - (Research & Data): Natacha Pasche
+- EPFL - ENAC-IT4R (Implementation): Hugo Solleder
+- EPFL - ENAC-IT4R (Project Management): Charlie Weil, Hugo Solleder
+- EPFL - ENAC-IT4R (Contributors):
 
-   ```bash
-   make setup
-   ```
+## 
+### Prerequisites
 
-   This will run an interactive script to configure your repository with project-specific details.
+- Node.js (v22+)
+- npm
+- Python 3
+- Docker
 
-2. **Regular development setup:**
-   ```bash
-   make install
-   ```
-   This installs dependencies and sets up git hooks.
+### Setup & Usage
 
-## For Template Development
-
-To set up the development environment and git hooks for working on this template itself, run:
+You can use Make with the following commands:
 
 ```bash
 make install
+make clean
+make uninstall
+make lint
+make format
 ```
 
-This will install npm dependencies and configure git hooks using Lefthook.
+_Note: Update these commands based on your project's actual build system_
 
-## Available Commands
+## 
+Data for the platform is organized the following way:
 
-- `make setup` - **For new repositories**: Interactive setup from template
-- `make install` - Install dependencies and set up git hooks
-- `make clean` - Clean node_modules and package-lock.json
-- `make uninstall` - Remove git hooks and clean dependencies
-- `make help` - Show available commands
+### Application Data
+- Location: `./`
+- Contains:
+  - Application-specific data
 
-# Todo when setting up your github repo
+Data is version-controlled and regularly updated to reflect the latest research findings
 
-- [ ] Replace `{ YOUR-REPO-NAME }` in all files by the name of your repo
-- [ ] Replace `{ YOUR-LAB-NAME }` in all files by the name of your lab (.e.G epfl-cryos cf .github/workflows/deploy.yml)
-- [ ] Replace assignees: githubusernameassignee by the github handle of your lead dev
-- [ ] Modifiy or remove the `CITATION.cff` file.
-- [ ] ADD/REMOVE .github/workflows/release-please.yml depending on your proejct.
-  - [ ] Add token for the github action secrets called: MY_RELEASE_PLEASE_TOKEN
+The platform supports multiple languages including English, French, and Arabic. Translations are managed through i18n files located in `frontend/src/i18n/`. based on `frontend/src/assets/i18n`
 
-# Optional TODOs
+## Contributing
 
-- If you created a repo outstide the organization EPFL-ENAC, please replace every instances
-- Modify .github/.copilot-instructions.md if need be
-- Check if you need all the labels: https://github.com/EPFL-ENAC/{ YOUR-REPO-NAME }/labels
-- Create your first milestone: https://github.com/EPFL-ENAC/{ YOUR-REPO-NAME }/milestones
-- Protect your branch if you're a pro user: https://github.com/EPFL-ENAC/{ YOUR-REPO-NAME }/settings/branches
-- [Activate discussion](https://github.com/EPFL-ENAC/{ YOUR-REPO-NAME }/settings)
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
-# Helpful links
+## Status
+
+Under active development. [Report bugs here](https://github.com/EPFL-ENAC/lmnc-flake-documentation/issues).
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0](LICENSE) - see the LICENSE file for details.
+
+This is free software: you can redistribute it and/or modify it under the terms of the GPL-3.0 as published by the Free Software Foundation.
+
+# Setup Checklist Completed
+
+The following items from the original setup checklist have been automatically completed:
+
+- [x] Replace `{ YOUR-REPO-NAME }` in all files by the name of your repo
+- [x] Replace `{ YOUR-LAB-NAME }` in all files by the name of your lab
+- [x] Replace `{ DESCRIPTION }` with project description
+- [x] Replace assignees: githubusernameassignee by the github handle of your assignee
+- [x] Handle CITATION.cff file (kept/removed based on preference)
+- [x] Handle release-please workflow (kept/removed based on preference)
+- [x] Configure project-specific settings
+
+## Remaining Manual Tasks
+
+Please complete these tasks manually:
+- [ ] Check if you need all the labels: https://github.com/EPFL-ENAC/lmnc-flake-documentation/labels
+- [ ] Create your first milestone: https://github.com/EPFL-ENAC/lmnc-flake-documentation/milestones
+- [ ] Protect your branch if you're a pro user: https://github.com/EPFL-ENAC/lmnc-flake-documentation/settings/branches
+- [ ] [Activate discussion](https://github.com/EPFL-ENAC/lmnc-flake-documentation/settings)
+
+## Helpful links
 
 - [How to format citations ?](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
 - [Learn how to use github template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
