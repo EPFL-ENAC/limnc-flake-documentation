@@ -2,7 +2,6 @@
 
 Documentation for FLAKE
 
-
 ## Contributors
 
 - EPFL - (Research & Data): Natacha Pasche
@@ -10,7 +9,8 @@ Documentation for FLAKE
 - EPFL - ENAC-IT4R (Project Management): Charlie Weil, Hugo Solleder
 - EPFL - ENAC-IT4R (Contributors):
 
-## 
+##
+
 ### Prerequisites
 
 - Node.js (v22+)
@@ -32,10 +32,12 @@ make format
 
 _Note: Update these commands based on your project's actual build system_
 
-## 
+##
+
 Data for the platform is organized the following way:
 
 ### Application Data
+
 - Location: `./`
 - Contains:
   - Application-specific data
@@ -73,6 +75,7 @@ The following items from the original setup checklist have been automatically co
 ## Remaining Manual Tasks
 
 Please complete these tasks manually:
+
 - [ ] Check if you need all the labels: https://github.com/EPFL-ENAC/lmnc-flake-documentation/labels
 - [ ] Create your first milestone: https://github.com/EPFL-ENAC/lmnc-flake-documentation/milestones
 - [ ] Protect your branch if you're a pro user: https://github.com/EPFL-ENAC/lmnc-flake-documentation/settings/branches
