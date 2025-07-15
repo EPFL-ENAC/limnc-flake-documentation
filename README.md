@@ -40,7 +40,7 @@ Data for the platform is organized the following way:
 
 - Location: `./`
 - Contains:
-  - Application-specific data
+    - Application-specific data
 
 Data is version-controlled and regularly updated to reflect the latest research findings
 
