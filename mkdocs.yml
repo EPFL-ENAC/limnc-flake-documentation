@@ -22,4 +22,4 @@ nav:
   - 'Roles': roles.md
   - 'Overview of QA/QC': QC.md
   - 'Datasets': datasets.md
-  
+  - 'events.csv': maintenance.md
