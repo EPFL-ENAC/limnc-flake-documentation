@@ -61,10 +61,12 @@ The file is never used in the processing described in [`main.py`](https://gitlab
 
 ### [Thetis - physico-chemical, optical](https://gitlab.renkulab.io/lexplore/thetis-multi-instrument-profiler)
 
-No `events.csv` in the [ADCP 19-20](https://gitlab.renkulab.io/lexplore/thetis-multi-instrument-profiler) repository
+No `events.csv` in the [Thetis Multi Instrument Profiler](https://gitlab.renkulab.io/lexplore/thetis-multi-instrument-profiler) repository
 
 ### [Sea and Sun CTD](https://gitlab.renkulab.io/lexplore/platform-ctd-profiles)
 
-No `events.csv` in the [ADCP 19-20](https://gitlab.renkulab.io/lexplore/platform-ctd-profiles) repository
+No `events.csv` in the [Platform CTD Profiles](https://gitlab.renkulab.io/lexplore/platform-ctd-profiles) repository
 
 ### OxyPAR mooring
+
+Repository not found.
