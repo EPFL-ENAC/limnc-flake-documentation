@@ -1,6 +1,31 @@
 # Overview of the quality assurance and quality control (QA/QC) pipeline
 
-## Sequence diagram
+## QA/QC in FLAKE - overview
+
+```mermaid
+graph LR
+  subgraph LéXPLORE
+  A[Sensors] --> B[L0 data]
+  A --> C[Tethis pre-processing] --> B
+  end
+  subgraph Data pipeline
+  B --> D[EAWAG]
+  E[Metadata] --> D
+  D --> F[Cloud server]
+  F --> G[Quality assessment]
+  G --> H[L1 data]
+  H --> I[Processing]
+  I --> J[L2 n+1 data]
+  J --> K[Datalakes]
+  L[QA JSON] --> G
+  G --> M[Metadata]
+  K --> N[Pull request on Renku]
+  N --> O[Validation by code maintainer]
+  O --> P[events.csv] --> F
+  end
+```
+
+## Submission of a maintenance report - Sequence diagram
 
 The following diagram describes the flow of a submission by a user on Datalakes, the QA/QC process by the data curator and/or advisor, and their relation to the web and server aspects of Datalakes as well as the instrument repository.
 
