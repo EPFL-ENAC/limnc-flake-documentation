@@ -2,7 +2,7 @@
 
 ## Description
 
-For each dataset, the data curator and data advisor roles are assigned for one year, renewable, and their contributions are cited in the dataset's DOI every year.
+For each dataset, one data curator and one data advisor role are assigned for one year, renewable, and their contributions are cited in the dataset's DOI every year. Each data curator and advisor can be responsible for more than one dataset.
 
 ### Reporter
 
@@ -11,13 +11,14 @@ For each dataset, the data curator and data advisor roles are assigned for one y
 ### Data curator
 
 - Assigned per dataset for one year, renewable
-- Receives the notification
+- Once per month, the data curator reviews flagged data and decides whether to validate (data is accessible) or reject (data remains hidden)
 
 ### Data advisor
 
+- Assigned per dataset for one year, renewable
 - Replaces the data curator when
     - the data curator is submitting an issue
-    - the data curator is on unavailable
+    - the data curator is unavailable
 
 ### Admin
 
