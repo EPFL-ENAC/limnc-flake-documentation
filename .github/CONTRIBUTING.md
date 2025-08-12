@@ -34,9 +34,6 @@ We use conventional commits for consistency:
 
 ## Code Standards
 
-- **JavaScript/TypeScript**: ESLint + Prettier
-- **CSS**: Use design tokens, no hardcoded values
-- **HTML**: WCAG AA compliant, semantic tags
 - **Python**: Follow PEP8
 
 ---
@@ -61,23 +58,6 @@ We use conventional commits for consistency:
 - Stylelint plugin
 
 ### Detailed Code Standards
-
-**JavaScript/TypeScript**
-
-- Follow team standards with ESLint + Prettier
-
-**HTML**
-
-- WCAG Level AA compliant
-- Use semantic tags (not just divs/spans)
-- Keyboard accessible with visible focus states
-- Responsive design (mobile to desktop)
-
-**CSS**
-
-- Use design tokens, no hardcoded values
-- Prefer rem/em over px
-- No component library overrides
 
 **Python**
 

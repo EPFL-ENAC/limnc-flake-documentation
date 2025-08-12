@@ -1,22 +1,17 @@
 # limnc-flake-documentation
 
-Documentation for FLAKE
+Documentation for the FAIRifying LéXPLORE: enhancing open research data pipelines for Advanced LaKe SciencE (FLAKE) project. The documentation is created using [mkdocs](https://www.mkdocs.org/).
 
 ## Contributors
 
-- EPFL - (Research & Data): Natacha Pasche
-- EPFL - ENAC-IT4R (Implementation): Hugo Solleder
+- EPFL - (Research & Data): Natacha Pasche, Guillaume Cunillera, Jérémy Keller
+- EPFL - ENAC-IT4R (Implementation): Yannick Marcon, Hugo Solleder
 - EPFL - ENAC-IT4R (Project Management): Charlie Weil, Hugo Solleder
-- EPFL - ENAC-IT4R (Contributors):
-
-##
 
 ### Prerequisites
 
-- Node.js (v22+)
 - npm
 - Python 3
-- Docker
 
 ### Setup & Usage
 
@@ -30,21 +25,11 @@ make lint
 make format
 ```
 
-_Note: Update these commands based on your project's actual build system_
+To deploy the doc locally, simply run
 
-##
-
-Data for the platform is organized the following way:
-
-### Application Data
-
-- Location: `./`
-- Contains:
-    - Application-specific data
-
-Data is version-controlled and regularly updated to reflect the latest research findings
-
-The platform supports multiple languages including English, French, and Arabic. Translations are managed through i18n files located in `frontend/src/i18n/`. based on `frontend/src/assets/i18n`
+```bash
+mkdocs serve
+```
 
 ## Contributing
 
@@ -71,15 +56,6 @@ The following items from the original setup checklist have been automatically co
 - [x] Handle CITATION.cff file (kept/removed based on preference)
 - [x] Handle release-please workflow (kept/removed based on preference)
 - [x] Configure project-specific settings
-
-## Remaining Manual Tasks
-
-Please complete these tasks manually:
-
-- [ ] Check if you need all the labels: https://github.com/EPFL-ENAC/lmnc-flake-documentation/labels
-- [ ] Create your first milestone: https://github.com/EPFL-ENAC/lmnc-flake-documentation/milestones
-- [ ] Protect your branch if you're a pro user: https://github.com/EPFL-ENAC/lmnc-flake-documentation/settings/branches
-- [ ] [Activate discussion](https://github.com/EPFL-ENAC/lmnc-flake-documentation/settings)
 
 ## Helpful links
 
