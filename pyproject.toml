@@ -7,5 +7,6 @@ requires-python = ">=3.11"
 dependencies = [
     "lefthook>=1.12.2",
     "mkdocs-material>=9.6.15",
+    "mkdocs-panzoom-plugin>=0.3.0",
     "prettier>=0.0.7",
 ]

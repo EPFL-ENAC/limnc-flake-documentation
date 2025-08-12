@@ -57,3 +57,5 @@ CITATION.cff
 
 # venv files
 .venv/
+
+*.toml
