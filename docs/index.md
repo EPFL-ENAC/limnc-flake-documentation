@@ -8,8 +8,10 @@ The present website provides detailed information about the quality assurance an
 - the [roles][roles] at play in the QA/QC process
 - the LéXPLORE [datasets][datasets] at the heart of the QA/QC effort
 - the [`events.csv`][events] files across the LéXPLORE datasets
+- the [QA JSON][qa-json] files for each dataset
 
     [overview]: QC.md
     [roles]: roles.md
     [datasets]: datasets.md
     [events]: maintenance.md
+    [qa-json]: QA_json.md
