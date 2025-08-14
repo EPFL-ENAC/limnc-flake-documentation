@@ -47,5 +47,13 @@ nav:
   - 'Roles': roles.md
   - 'Overview of QA/QC': QC.md
   - 'Datasets': datasets.md
-  - 'events.csv': maintenance.md
-  - 'QA JSON': QA_json.md
+  - 'Guides':
+    - 'Overview': guides/index.md
+    - 'Login to Datalakes': guides/login.md
+    - 'Reporting an issue': guides/reporting.md
+    - 'Managing issues': guides/management.md
+    - 'Merging issues': guides/merging.md
+    - 'Modifying the automated L1 QA': guides/QA_json.md
+
+  - 'Development':
+    - 'events.csv': dev/maintenance.md

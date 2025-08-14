@@ -40,5 +40,5 @@ An example of a QA JSON can be found in idronaut-automatic-profiler repository:
 
 For each variable outlined in the JSON, the automated QA/QC process will identify values that are not numerical (via the `"numeric": "True"`) and/or outside of specific bounds (e.g, `"bounds": [-5, 40]` for the temperature).
 
-[datasets]: datasets.md
+[datasets]: ../datasets.md
 [envass]: https://pypi.org/project/envass/
