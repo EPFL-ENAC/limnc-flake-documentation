@@ -40,6 +40,8 @@ plugins:
   - panzoom:
       full_screen: true
       always_show_hint: true
+      include_selectors:
+        - "img"
 
 
 nav: 
