@@ -67,6 +67,6 @@ No `events.csv` in the [Thetis Multi Instrument Profiler](https://gitlab.renkula
 
 No `events.csv` in the [Platform CTD Profiles](https://gitlab.renkulab.io/lexplore/platform-ctd-profiles) repository
 
-### OxyPAR mooring
+### [OxyPAR mooring](https://gitlab.renkulab.io/lexplore/ppmooring)
 
-Repository not found.
+No `events.csv` in the [OxyPAR mooring](https://gitlab.renkulab.io/lexplore/ppmooring) repository.
