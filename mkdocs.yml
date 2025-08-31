@@ -27,6 +27,7 @@ theme:
 
 markdown_extensions:
   - tables
+  - admonition
   - toc:
       permalink: true
   - pymdownx.superfences:
