@@ -52,9 +52,10 @@ nav:
   - 'Datasets': datasets.md
   - 'Guides':
     - 'Overview': guides/index.md
-    - 'Login to Datalakes': guides/login.md
+    - 'LéXPLORE clean-up days': guides/datathon.md
     - 'Reporting an issue': guides/reporting.md
     - 'Managing issues': guides/management.md
+    - 'Assigning a data curator/advisor': guides/assignment.md
     - 'Merging issues': guides/merging.md
     - 'Modifying the automated L1 QA': guides/QA_json.md
 
