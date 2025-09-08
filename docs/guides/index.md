@@ -16,4 +16,5 @@ The following guides are available to help you navigate the QA/QC processes in D
 
 ## For admins
 
+- [How to assign a data curator in the instrument repository](assignment.md)
 - [How to merge requests in the instrument repository](merging.md)
