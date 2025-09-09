@@ -57,6 +57,7 @@ nav:
     - 'Assigning a data curator/advisor': guides/assignment.md
     - 'Merging issues': guides/merging.md
     - 'Modifying the automated L1 QA': guides/QA_json.md
+    - 'Managing roles in the instrument repository': guides/roles.md
     - 'Updating the documentation': guides/updating_docs.md
 
   - 'Development':
