@@ -52,7 +52,6 @@ nav:
   - 'Datasets': datasets.md
   - 'Guides':
     - 'Overview': guides/index.md
-    - 'LéXPLORE clean-up days': guides/datathon.md
     - 'Reporting an issue': guides/reporting.md
     - 'Managing issues': guides/management.md
     - 'Assigning a data curator/advisor': guides/assignment.md

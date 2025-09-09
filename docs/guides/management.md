@@ -1,12 +1,5 @@
 # Managing a reported issue in Datalakes
 
-<!-- prettier-ignore-start -->
-
-!!! warning
-    The confirmation and validation of issues can only be done in the development version of Datalakes: [https://datalakes.epfl.ch/](https://datalakes.epfl.ch/)
-
-<!-- prettier-ignore-end -->
-
 When an issue is reported, the data curator should be [automatically assigned](assignment.md) to the issue in GitLab. Upon notification, the data curator should manage the issue directly on Datalakes, using the issue management popup
 
 ## Overview of the issue management popup

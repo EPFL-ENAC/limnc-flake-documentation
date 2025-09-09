@@ -1,17 +1,6 @@
 # Guides
 
-<!-- prettier-ignore-start -->
-
-!!! warning
-    The QA/QC pipeline is only available for the development version of Datalakes: [https://datalakes.epfl.ch/](https://datalakes.epfl.ch/)
-
-<!-- prettier-ignore-end -->
-
 The following guides are available to help you navigate the QA/QC processes in Datalakes:
-
-## For the data clean-up days participants
-
-- [Information about the data clean-up days](datathon.md)
 
 ## For issue reporters
 
@@ -33,6 +22,7 @@ The following guides are available to help you navigate the QA/QC processes in D
 
 - [How to assign a data curator in the instrument repository](assignment.md)
 - [How to merge requests in the instrument repository](merging.md)
+- [How to manage roles in the instrument repository](roles.md)
 
 ## For contributors
 
