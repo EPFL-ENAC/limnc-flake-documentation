@@ -58,6 +58,7 @@ nav:
     - 'Assigning a data curator/advisor': guides/assignment.md
     - 'Merging issues': guides/merging.md
     - 'Modifying the automated L1 QA': guides/QA_json.md
+    - 'Updating the documentation': guides/updating_docs.md
 
   - 'Development':
     - 'events.csv': dev/maintenance.md
