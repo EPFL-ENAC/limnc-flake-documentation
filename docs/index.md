@@ -8,8 +8,12 @@ The present website provides detailed information about the quality assurance an
 - the [roles][roles] at play in the QA/QC process
 - the LéXPLORE [datasets][datasets] at the heart of the QA/QC effort
 
+<!-- prettier-ignore-start -->
+
 !!! warning
-The QA/QC pipeline is only available for the development version of Datalakes: [https://datalakes.epfl.ch/](https://datalakes.epfl.ch/)
+    The QA/QC pipeline is only available for the development version of Datalakes: [https://datalakes.epfl.ch/](https://datalakes.epfl.ch/)
+
+<!-- prettier-ignore-end -->
 
 Additionally, the documentation also includes [guides][guides] to aid the user in navigating the QA/QC processes, as well as [additional documentation for development purposes][dev].
 
