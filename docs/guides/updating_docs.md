@@ -1,5 +1,12 @@
 # Updating the documentation
 
+<!-- prettier-ignore-start -->
+
+!!! failure
+    OH NO! The documentation writer forgot to remove this error box, please [remove it](updating_docs.md) if you are reading this.
+
+<!-- prettier-ignore-end -->
+
 To update the documentation, follow these steps:
 
 1. Make sure you have the latest version of the documentation repository.

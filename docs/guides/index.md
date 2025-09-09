@@ -22,6 +22,13 @@ The following guides are available to help you navigate the QA/QC processes in D
 - [How to manage reported issues in Datalakes](management.md)
 - [How to modify the QA JSON to update the automatic L1 QA](QA_json.md)
 
+<!-- prettier-ignore-start -->
+
+!!! failure
+    OH NO! The documentation writer forgot to remove this error box, please [remove it](updating_docs.md) if you are reading this.
+
+<!-- prettier-ignore-end -->
+
 ## For admins
 
 - [How to assign a data curator in the instrument repository](assignment.md)
