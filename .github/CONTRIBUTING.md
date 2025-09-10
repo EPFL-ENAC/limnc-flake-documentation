@@ -12,9 +12,9 @@ Thanks for your interest in contributing! 🎉
 
 ## Need Help?
 
-- 💬 Join our [discussions](https://github.com/EPFL-ENAC/{ YOUR-REPO-NAME }/discussions)
-- 📋 Use [issue templates](https://github.com/EPFL-ENAC/{ YOUR-REPO-NAME }/issues/new/choose) to report bugs or request features
-- 📖 Read our [Code of Conduct](https://github.com/EPFL-ENAC/{ YOUR-REPO-NAME }/blob/main/CODE_OF_CONDUCT.md)
+- 💬 Join our [discussions](https://github.com/EPFL-ENAC/limnc-flake-documentation/discussions)
+- 📋 Use [issue templates](https://github.com/EPFL-ENAC/limnc-flake-documentation/issues/new/choose) to report bugs or request features
+- 📖 Read our [Code of Conduct](https://github.com/EPFL-ENAC/limnc-flake-documentation/blob/main/CODE_OF_CONDUCT.md)
 
 ## Development Setup
 
@@ -22,7 +22,7 @@ Thanks for your interest in contributing! 🎉
 make install  # Install dependencies
 ```
 
-**Requirements:** Node.js LTS, npm, GNU Make
+**Requirements:** GNU Make
 
 ## Commit Messages
 
@@ -31,10 +31,6 @@ We use conventional commits for consistency:
 - `feat: add new feature`
 - `fix: resolve bug`
 - `docs: update documentation`
-
-## Code Standards
-
-- **Python**: Follow PEP8
 
 ---
 
@@ -52,16 +48,9 @@ We use conventional commits for consistency:
 
 ### Editor Setup (Recommended)
 
-- ESLint plugin
 - Prettier plugin
-- TypeScript support
-- Stylelint plugin
 
 ### Detailed Code Standards
-
-**Python**
-
-- Follow PEP8 and [Python Guide](https://docs.python-guide.org/writing/style/)
 
 ### Code Review Guidelines
 
