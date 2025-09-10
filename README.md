@@ -1,5 +1,9 @@
 # limnc-flake-documentation
 
+[![GitHub License](https://img.shields.io/github/license/EPFL-ENAC/limnc-flake-documentation)](LICENSE)
+[![Latest Documentation](https://img.shields.io/badge/docs-dev-blue.svg)](https://epfl-enac.github.io/limnc-flake-documentation/)
+[![Docs workflow Status](https://github.com/EPFL-ENAC/limnc-flake-documentation/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/EPFL-ENAC/limnc-flake-documentation/actions/workflows/deploy.yml?query=branch%3Amain)
+
 Documentation for the FAIRifying LéXPLORE: enhancing open research data pipelines for Advanced LaKe SciencE (FLAKE) project. The documentation is created using [mkdocs](https://www.mkdocs.org/).
 
 ## Contributors
