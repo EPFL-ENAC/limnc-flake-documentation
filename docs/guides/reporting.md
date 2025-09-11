@@ -1,4 +1,4 @@
-# Reporting an issue
+# Reporting a quality-control issue
 
 To report an issue you encountered in a LéXPLORE dataset in the development version of datalakes, follow these steps below. In the following, we assume that the user has logged into the development version of Datalakes with their Renku credentials and therefore has access to the detailed issue submission form
 
