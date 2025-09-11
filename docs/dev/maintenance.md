@@ -33,7 +33,7 @@ The [`events.csv`](https://gitlab.renkulab.io/lexplore/wave-buoy/-/blob/master/n
 
 The file is never used in the processing described in [`main.py`](https://gitlab.renkulab.io/lexplore/wave-buoy/-/blob/master/scripts/main.py).
 
-### ADCP velocities - [Deep](https://gitlab.renkulab.io/lexplore/acousticdopplercurrentprofiler) & [Surface](https://gitlab.renkulab.io/lexplore/adcp)
+### ADCP velocities - [Deep and near-surface](https://gitlab.renkulab.io/lexplore/acousticdopplercurrentprofiler)
 
 No `events.csv` in the [Acoustic Doppler Current Profiler](https://gitlab.renkulab.io/lexplore/acousticdopplercurrentprofiler) repository
 
