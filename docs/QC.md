@@ -10,7 +10,7 @@ The issue can have four different states:
 
 - **Draft**: the issue has been created by the reporter but not reviewed by the data curator/advisor yet. At this stage, the reporter can still edit the issue. The data is still visible in Datalakes to the users.
 - **Confirmed**: the issue has been reviewed and confirmed by the data curator/advisor. The data is masked in Datalakes but remains present in the database.
-- **Validated**: the issue has been validated by the data curator/advisor. A merge request is created in the instrument repository to permanently remove the data from Datalakes.
+- **Resolved**: the issue has been validated by the data curator/advisor. A merge request is created in the instrument repository to permanently remove the data from Datalakes.
 - **Closed**: the issue has been closed after the merge request has been accepted and merged in the instrument repository. The data is permanently removed from Datalakes.
 
 ### Sequence diagram
