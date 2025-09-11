@@ -11,7 +11,8 @@ For each dataset, one data curator and one data advisor role are assigned for on
 ### Data curator
 
 - Assigned per dataset for one year, renewable
-- Once per month, the data curator reviews flagged data and decides whether to validate (data is accessible) or reject (data remains hidden)
+- Once per month, the data curator reviews flagged data, then decides whether to confirm and validate the issue
+- Merges the pull request resulting from the validated issue
 
 ### Data advisor
 
