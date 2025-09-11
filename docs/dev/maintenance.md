@@ -21,7 +21,7 @@ The [`events.csv`](https://gitlab.renkulab.io/lexplore/meteostation/-/blob/maste
 | 20220510 00:00:00 | 20221026 12:30:00 | Rain      | sensor broken |
 | 20221024 12:00:00 | 20221024 12:30:00 | All       | Maintenance   |
 
-The file is never used in the processing described in [`main.py`](https://gitlab.renkulab.io/lexplore/meteostation/-/blob/master/scripts/main.py).
+As of the 11.09.2025, the file is never used in the processing described in [`main.py`](https://gitlab.renkulab.io/lexplore/meteostation/-/blob/master/scripts/main.py).
 
 ### [Wave buoy](https://gitlab.renkulab.io/lexplore/wave-buoy)
 
@@ -31,11 +31,17 @@ The [`events.csv`](https://gitlab.renkulab.io/lexplore/wave-buoy/-/blob/master/n
 | ---------- | ---------- | --------- | --------- | --------- | ------------------ | ------------------ |
 | 20021019   | 13:20:00   | 20221026  | 13:40:00  | all       | Bad com, extrafile | Sebastien Lavanchy |
 
-The file is never used in the processing described in [`main.py`](https://gitlab.renkulab.io/lexplore/wave-buoy/-/blob/master/scripts/main.py).
+As of the 11.09.2025, the file is never used in the processing described in [`main.py`](https://gitlab.renkulab.io/lexplore/wave-buoy/-/blob/master/scripts/main.py).
 
 ### ADCP velocities - [Deep and near-surface](https://gitlab.renkulab.io/lexplore/acousticdopplercurrentprofiler)
 
-No `events.csv` in the [Acoustic Doppler Current Profiler](https://gitlab.renkulab.io/lexplore/acousticdopplercurrentprofiler) repository
+The [`events.csv`](https://gitlab.renkulab.io/lexplore/acousticdopplercurrentprofiler/-/blob/master/notes/events.csv?ref_type=heads) file is located in the `notes` folder. It contains 1 entry, in the format
+
+| Start date | Start time | Stop date | Stop time | parameter | Comments    |
+| ---------- | ---------- | --------- | --------- | --------- | ----------- |
+| 20210625   | 07:29:00   | 20220625  | 17:33:00  | all       | Maintenance |
+
+As of the 11.09.2025, the file is never used in the processing described in [`main.py`](https://gitlab.renkulab.io/lexplore/acousticdopplercurrentprofiler/-/blob/master/scripts/main.py).
 
 ### [Temperature chain](https://gitlab.renkulab.io/lexplore/thermister-chain)
 
@@ -57,16 +63,14 @@ The [`events.csv`](https://gitlab.renkulab.io/lexplore/idronaut-automatic-profil
 | start | stop | parameter | Comments |
 | ----- | ---- | --------- | -------- |
 
-The file is never used in the processing described in [`main.py`](https://gitlab.renkulab.io/lexplore/idronaut-automatic-profiler/-/blob/master/scripts/main.py).
-
 ### [Thetis - physico-chemical, optical](https://gitlab.renkulab.io/lexplore/thetis-multi-instrument-profiler)
 
-No `events.csv` in the [Thetis Multi Instrument Profiler](https://gitlab.renkulab.io/lexplore/thetis-multi-instrument-profiler) repository
+As of 11.09.2025, no `events.csv` in the [Thetis Multi Instrument Profiler](https://gitlab.renkulab.io/lexplore/thetis-multi-instrument-profiler) repository
 
 ### [Sea and Sun CTD](https://gitlab.renkulab.io/lexplore/platform-ctd-profiles)
 
-No `events.csv` in the [Platform CTD Profiles](https://gitlab.renkulab.io/lexplore/platform-ctd-profiles) repository
+As of 11.09.2025, no `events.csv` in the [Platform CTD Profiles](https://gitlab.renkulab.io/lexplore/platform-ctd-profiles) repository
 
 ### [OxyPAR mooring](https://gitlab.renkulab.io/lexplore/ppmooring)
 
-No `events.csv` in the [OxyPAR mooring](https://gitlab.renkulab.io/lexplore/ppmooring) repository.
+As of 11.09.2025, no `events.csv` in the [OxyPAR mooring](https://gitlab.renkulab.io/lexplore/ppmooring) repository.
