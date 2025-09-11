@@ -4,7 +4,7 @@ The following guides are available to help you navigate the QA/QC processes in D
 
 ## For issue reporters
 
-- [How to report an quality-control issue](reporting.md)
+- [How to report a quality-control issue](reporting.md)
 
 ## For data curators and advisors
 
@@ -20,4 +20,4 @@ The following guides are available to help you navigate the QA/QC processes in D
 ## For contributors
 
 - [How to update the documentation](updating_docs.md)
-- [How to report a bug](bugs.md)
+- [How to report a missing feature or code issue](bugs.md)
