@@ -16,10 +16,3 @@ To report an issue you encountered in a LéXPLORE dataset in the development ver
     1. Provide a clear and concise title for your issue.
     2. Describe the issue in detail.
     3. Specify the parameters affected by the issue.
-
-<!-- prettier-ignore-start -->
-
-!!! failure
-    OH NO! The documentation writer forgot to remove this error box, please [remove it](updating_docs.md) if you are reading this.
-
-<!-- prettier-ignore-end -->
