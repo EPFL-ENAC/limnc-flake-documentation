@@ -18,4 +18,5 @@ In the Git repository, select the "bell" and select "Watch", as below
 
 ![Screenshot](../img/notification.png)
 
-You can check that the notification works, under your profile > preferences > notifications. At the bottom, you should
+You can check that the notification works, under your profile > preferences > notifications. At the bottom, you should see:
+![Screenshot2](../img/Notification_personal preferences.png)
