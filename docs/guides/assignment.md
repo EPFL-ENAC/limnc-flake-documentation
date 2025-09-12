@@ -11,3 +11,10 @@ To assign a data curator to a dataset in the development version of Datalakes, t
 ```
 
 where `@data-curator-username` is the GitLab username of the data curator you want to assign, and `@data-advisor-username` is the GitLab username of the data advisor.
+
+## Set up your email notification
+Open your assign dataset, then open the dedicated Git repository
+In the Git repository, select the "bell" and select "Watch"
+
+
+You can check that the notification works, under your profile > preferences > notifications. At the bottom, you should
