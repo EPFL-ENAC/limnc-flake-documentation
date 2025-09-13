@@ -16,3 +16,5 @@ To report an issue you encountered in a LéXPLORE dataset in the development ver
     1. Provide a clear and concise title for your issue.
     2. Describe the issue in detail.
     3. Specify the parameters affected by the issue.
+    4. Submit the report.
+4. Check that the issue has been correctly reported. A colored box is displayed around the flagged data by clicking on "Show Masked Points" in the Display Options. Information about the issue can be found by moving the mouse on this box. Edit the issue if needed.

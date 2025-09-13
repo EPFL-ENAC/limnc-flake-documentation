@@ -15,7 +15,7 @@ If the data curator is logged in with their Renku credentials and has the approp
 
 ## Confirming the issue on Datalakes
 
-The first step of the process for the data curator is to confirm that the issue is valid. As long as the issue has not been confirmed, the data remains visible to the users and the data curator has the oppourtunity to edit the issue if needed. Once the data curator is satisfied that the issue is valid, they can confirm the issue. This will mask the data in Datalakes, meaning that it will no longer be visible to the users. The confirmation can be removed to unmask the data and edit the issue if needed.
+The first step of the process for the data curator is to confirm that the issue is valid. As long as the issue has not been confirmed, the data remains visible to the users and the data curator has the opportunity to edit the issue if needed. Once the data curator is satisfied that the issue is valid, they can confirm the issue. This will mask the data in Datalakes, meaning that it will no longer be visible to the users. The confirmation can be removed to unmask the data and edit the issue if needed.
 
 ## Resolving the issue on Datalakes
 
