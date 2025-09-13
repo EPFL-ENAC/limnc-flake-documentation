@@ -1,4 +1,4 @@
-# Managing a reported issue in Datalakes
+# Managing a reported QC issue in Datalakes
 
 When an issue is reported, the data curator should be [automatically assigned](assignment.md) to the issue in GitLab. Upon notification, the data curator should manage the issue directly on Datalakes, using the issue management popup
 
