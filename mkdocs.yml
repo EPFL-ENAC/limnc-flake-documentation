@@ -53,9 +53,9 @@ nav:
   - 'Guides':
     - 'Overview': guides/index.md
     - 'Reporting a QC issue': guides/reporting.md
-    - 'Managing issues': guides/management.md
+    - 'Managing QC issues': guides/management.md
     - 'Assigning a data curator/advisor': guides/assignment.md
-    - 'Merging issues': guides/merging.md
+    - 'Merging QC issues': guides/merging.md
     - 'Modifying the automated L1 QA': guides/QA_json.md
     - 'Managing roles in the instrument repository': guides/roles.md
     - 'Reporting missing feature or code issue': guides/bugs.md
