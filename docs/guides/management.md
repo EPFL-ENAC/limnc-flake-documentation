@@ -1,6 +1,6 @@
 # Managing a reported QC issue in Datalakes
 
-When an issue is reported, the data curator should be [automatically assigned](assignment.md) to the issue in GitLab. Upon notification, the data curator should manage the issue directly on Datalakes, using the issue management popup
+When an issue is reported, the data curator should be assigned to the issue in GitHub. Upon notification, the data curator should manage the issue directly on Datalakes, using the issue management popup
 
 ## Overview of the issue management popup
 
@@ -12,6 +12,8 @@ If the data curator is logged in with their Renku credentials and has the approp
 - Confirm the issue (left-to-right arrow icon)
 - Unconfirm the issue (right-to-left arrow icon)
 - Resolve the issue (checkmark icon)
+- Duplicate the issue (green plus icon)
+- Delete the issue (red cross icon)
 
 ## Confirming the issue on Datalakes
 
