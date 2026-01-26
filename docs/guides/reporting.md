@@ -1,6 +1,13 @@
 # Reporting a quality-control issue
 
-To report an issue you encountered in a LéXPLORE dataset in datalakes, follow these steps below. In the following, we assume that the user has logged into Datalakes with their credentials and therefore has access to the detailed issue submission form
+To report an issue you encountered in a LéXPLORE dataset on Datalakes, follow these steps below. In the following, we assume that the user has logged into Datalakes with their credentials and therefore has access to the detailed issue submission form
+
+<!-- prettier-ignore-start -->
+
+!!! warning
+    For datasets including profiles (e.g. [CTD Profiles](https://www.datalakes-eawag.ch/datadetail/674) or [Idronaut Profiles](https://www.datalakes-eawag.ch/datadetail/667)), you may select a time range for which the correction should be applied. To do so, in the right tab, head to the end of the time range, check "Keep previously plotted line" and use the left arrow to move to the start of the time range, adding all profiles to the plots. The issue will then be reported for the time range and will affect all profiles within the time range.
+
+<!-- prettier-ignore-end -->
 
 1. Activate the brush mode (Ctrl + click) and select the area of interest in the dataset
 2. Click on the "Report Issue" button below the dataset view, on the right side.
