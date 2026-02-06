@@ -1,6 +1,6 @@
 # Assigning a data curator/advisor to a dataset (tentative)
 
-To assign a data curator to a dataset in the development version of Datalakes, the following steps must be followed:
+To assign a data curator to a dataset in Datalakes, the following steps must be followed:
 
 - give a `dev` or `maintainer` role to the data curator in the repository
 - if no issue template exists, create an issue template

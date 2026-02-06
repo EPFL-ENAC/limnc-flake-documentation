@@ -1,11 +1,11 @@
 # Reporting a quality-control issue
 
-To report an issue you encountered in a LéXPLORE dataset in the development version of datalakes, follow these steps below. In the following, we assume that the user has logged into the development version of Datalakes with their Renku credentials and therefore has access to the detailed issue submission form
+To report an issue you encountered in a LéXPLORE dataset on Datalakes, follow these steps below. In the following, we assume that the user has logged into Datalakes with their credentials and therefore has access to the detailed issue submission form
 
 <!-- prettier-ignore-start -->
 
 !!! warning
-    If you logged in with your GitHub or GitLab account, you will only have access to the simplified form.
+    For datasets including profiles (e.g. [CTD Profiles](https://www.datalakes-eawag.ch/datadetail/674) or [Idronaut Profiles](https://www.datalakes-eawag.ch/datadetail/667)), you may select a time range for which the correction should be applied. To do so, in the right tab, head to the end of the time range, check "Keep previously plotted line" and use the left arrow to move to the start of the time range, adding all profiles to the plots. The issue will then be reported for the time range and will affect all profiles within the time range. Additionally, if one of the dimensions is Depth, the depth range will be pre-filled in the Sensor Depths field, with the selected area in the issue form.
 
 <!-- prettier-ignore-end -->
 
