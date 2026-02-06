@@ -5,7 +5,7 @@ To report an issue you encountered in a LéXPLORE dataset on Datalakes, follow t
 <!-- prettier-ignore-start -->
 
 !!! warning
-    For datasets including profiles (e.g. [CTD Profiles](https://www.datalakes-eawag.ch/datadetail/674) or [Idronaut Profiles](https://www.datalakes-eawag.ch/datadetail/667)), you may select a time range for which the correction should be applied. To do so, in the right tab, head to the end of the time range, check "Keep previously plotted line" and use the left arrow to move to the start of the time range, adding all profiles to the plots. The issue will then be reported for the time range and will affect all profiles within the time range.
+    For datasets including profiles (e.g. [CTD Profiles](https://www.datalakes-eawag.ch/datadetail/674) or [Idronaut Profiles](https://www.datalakes-eawag.ch/datadetail/667)), you may select a time range for which the correction should be applied. To do so, in the right tab, head to the end of the time range, check "Keep previously plotted line" and use the left arrow to move to the start of the time range, adding all profiles to the plots. The issue will then be reported for the time range and will affect all profiles within the time range. Additionally, if one of the dimensions is Depth, the depth range will be pre-filled in the Sensor Depths field, with the selected area in the issue form.
 
 <!-- prettier-ignore-end -->
 
